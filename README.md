@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tasnimul116](https://github.com/Tasnimul116)
 
