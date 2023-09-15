@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tasnimul116](https://github.com/Tasnimul116)
 
-- 💬 Ask me about **react.js, vue.js**
+- 💬 Ask me about **react.js**
 
 - 📫 How to reach me **mahitasnimul2@gmail.com**
 
