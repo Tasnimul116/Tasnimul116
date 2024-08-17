@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋! My name is Tasnimul Hasan Mahi and I'm a student and also a Full-Stack Developer, from Bangladesh</h1>
 
-
+<br/>
+<div align="left" diplay="flex"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /><h2>mahitasnimul2@gmail.com</h2></div>
 
 <img align="right" height="180" src="https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/279872535_1343962986087637_1743538125390851916_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGYkywfl4cjTOLUJSv8IFY4qyLnojqr_3CrIueiOqv_cHXsWA83ADta5YZFIMxDA3cI2Hf9ihk0ZOO8ynviYFuV&_nc_ohc=OQmR18KLfuEQ7kNvgGZU2zd&_nc_ht=scontent.fdac24-4.fna&oh=00_AYAI2_GOxgRIwj-ajK-cMZtulmmxgFfLOQSAXYo6LrV4aw&oe=66C6C302"  />
 
@@ -55,9 +56,7 @@
 ###
 
 <div align="left">
-  <a href="mahitasnimul2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  
   <a href="https://www.linkedin.com/in/tasnimul-hasan-mahi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
