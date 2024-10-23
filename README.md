@@ -67,20 +67,6 @@
 
 ###
 
-
-
-<h1 align="center">Leetcode Info<h1>
-
-
-
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/tasnimul116?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-
-
-###
-
 <div align="center">
  <div  ><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasnimul116&show_icons=true&locale=en" alt="tasnimul116" /></p>
 
