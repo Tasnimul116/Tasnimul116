@@ -64,7 +64,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimul116&" alt="tasnimul116" /></p>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnimul116&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ 
 </div>
 
 ###
